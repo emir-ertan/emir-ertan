@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I began my engineering career working in **RF electronics**, **power electronics**, and **hardware design**.  
+I started my engineering journey in RF and power electronics, embedded systems, and hardware design, developing and refining complex electronic systems.
 Over time, I became more passionate about automation, cloud technologies, and scalable infrastructure.
 
 Now, I am focused on building my path in **DevOps**, working with cloud platforms, CI/CD, infrastructure as code, containers, and monitoring systems.
