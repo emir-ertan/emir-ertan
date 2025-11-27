@@ -106,10 +106,11 @@ Here’s an overview of my expertise and key achievements:
 
 ## 📫 Contact Me
 
-<p>
-  [<img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ertan.emir10@gmail.com)
-  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emir-ertan/)
+<p align="center">
+  <a href="mailto:ertan.emir10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/emir-ertan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
-- **Email**: [ertan.emir10@gmail.com](mailto:ertan.emir10@gmail.com)  
-- **LinkedIn**: [https://www.linkedin.com/in/emir-ertan/](https://www.linkedin.com/in/emir-ertan/)
