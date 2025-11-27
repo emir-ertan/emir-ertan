@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Emir Ertan</h1>
+<h1 align="center">Hi, I'm Emir Ertan</h1>
 
 <p align="center">
   Electrical & Electronics Engineer • DevOps Engineer in Progress • AWS & Cloud Enthusiast
